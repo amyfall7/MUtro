@@ -1,0 +1,6 @@
+pages:
+  script:
+    - echo "hello"
+  artifacts:
+    paths:
+      - public
